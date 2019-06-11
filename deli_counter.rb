@@ -5,7 +5,7 @@ beneducci_deli_customers = []
 count = 0
 
 
-name.each do {name}
+name.each do
 beneducci_deli << name
 count +=1
 end
