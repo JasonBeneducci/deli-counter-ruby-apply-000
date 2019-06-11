@@ -13,6 +13,6 @@ end
 if count == 0 
   puts "The line is currently empty"
 else
-  puts ("Hello" + name + "you are number" + count.)
+  puts "Hello" + name + "you are number" + count + "."
 end
 end
